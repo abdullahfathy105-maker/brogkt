@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item img {
+height: 600px;
+
+}
+/* .rrrrr >ttttt{
+width: 50%;
+height: 800px;
+}
+.rrrrr{
+    display: flex;
+    gap: 25%;
+}  */
+/* .rrrrr{
+    display: flex;
+    gap: 30%;
+
+
+}
+.ttttt >img{
+width: 30%;
+height: 600px;
+}
+.vvvvv{
+    margin: 20px;
+    padding:  20px;
+} */
+
+
+.qqqqq {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.nav-tabs .nav-link {
+  position: relative;
+  color: #8e8e8e;
+}
+
+.nav-tabs .nav-link.active {
+  color: #000 !important;
+}
+
+/* خط أسود رفيع فوق التبويب النشط مشابه لإنستجرام */
+.nav-tabs .nav-link.active::before {
+  content: '';
+  position: absolute;
+  top: -1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background-color: #000;
+}
+ .gggg{
+    width: 100%;
+   
+} 
+.sssss {
+    color: aqua;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
